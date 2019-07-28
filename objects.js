@@ -4,7 +4,7 @@ var playlist = {
   Avicii: "Drowning"
 }
 
-function updatePlaylist(playlist, artist, song) {
+function updatePlaylist(playlist, artistName, songTitle) {
   playlist[Jacquees] = "You"
   return playlist
 }
