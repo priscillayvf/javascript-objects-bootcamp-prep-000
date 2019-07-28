@@ -1,7 +1,7 @@
 var playlist = {
-  Slowdive: "Differences",
+  Slowdive: "Alison",
   My Bloody Valentine: "Sometimes",
-  Phil Ochs: "Drowning"
+  Phil Ochs: "Here's to the State of Mississippi"
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
