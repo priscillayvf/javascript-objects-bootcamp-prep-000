@@ -1,7 +1,7 @@
 var playlist = {
-  Ginuwine: "Differences",
-  Drake: "Passionfruit",
-  Avicii: "Drowning"
+  Slowdive: "Differences",
+  My Bloody Valentine: "Sometimes",
+  Phil Ochs: "Drowning"
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
