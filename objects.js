@@ -5,5 +5,9 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artist, song) {
-  playlist[Ginuwine] = "Differences"
+  playlist[Jacquees] = "You"
+  return playlist
+}
+function removeFromPlaylist(playlist, artist) {
+  
 }
