@@ -4,4 +4,6 @@ var playlist = {
   Avicii: "Drowning"
 }
 
-function 
+function updatePlaylist(playlist, artist, song) {
+  playlist[Ginuwine] = "Differences"
+}
